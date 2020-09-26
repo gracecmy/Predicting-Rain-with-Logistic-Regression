@@ -1,4 +1,4 @@
-# :droplet:
+:droplet:
 
 Using scikit-learn's logistic regression to predict whether it will rain tomorrow.
 
